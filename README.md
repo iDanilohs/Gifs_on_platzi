@@ -1,7 +1,9 @@
 # Gifs_on_platzi
+
 This is a tutoria aobut how publish gifs on platzi
 
-@EdwLearn Para ello lo que debes hacer es:
+Lo que debes hacer es lo siguiente:
+
 1. Subir tu gif a una pagina para subir imágenes XD, por ejemplo https://imgur.com/
 1.1 Haces login o creas una cuenta en imgur.com![1.jpg](https://static.platzi.com/media/user_upload/1-d4f7fd28-d920-4f40-ab9d-2bbf05571c13.jpg)
 1.2 Haces click en new post.![2.jpg](https://static.platzi.com/media/user_upload/2-43ea3e1a-f189-4a44-a529-8b62a1c7a3ec.jpg)
